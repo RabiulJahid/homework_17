@@ -1,0 +1,193 @@
+/*common css*/
+/*header--------------------------------start*/
+.header{
+    background: #6839dc;
+}
+/*section---------------------------------start*/
+.section{
+    width: 100%;
+    height: auto;
+    background: #d4cbe2;
+    margin-top: 20px;
+    text-align: center
+}
+section.one{
+margin-top: 20px;
+}
+
+h3{
+     display: inline-block;
+    border: 2px solid #f31f7b;
+    border-radius: 10px;
+    padding: 5px 10px;
+    margin-top: 40px;
+    color: #111b01;
+}
+
+
+.button{
+	text-decoration: none;
+	
+}
+h3:hover{
+	color: black;
+	background: white;
+}
+/*section------------------------------------------end*
+
+/*iframe----------------------------------------------- start*/
+.map{
+	background: #085867;
+	margin-top: 20px;
+}
+.iframe{
+    background: pink;
+    margin-top: 20px;
+    padding: 25px;
+}
+.video{
+
+
+}
+.video iframe{
+	width: 100%;
+	height: 350px;
+}
+.location iframe{
+	width: 100%;
+	height: 400px;
+	margin-top: 20px;
+}
+/*iframe-------------------------------------------end*/
+
+/*utiliti start*/
+
+/*accordion--------------------------------------------start*/
+
+.accordion {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}
+
+.active, .accordion:hover {
+  background-color: #ccc; 
+}
+
+​
+/*accordion-----------------------------------------------end*/
+/***********************/
+.accordion {
+  background-color: #eee;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}
+
+.active, .accordion:hover {
+     background-color: #c7acac;
+
+.panel {
+  padding: 0 18px;
+  display: none;
+  background-color: white;
+  overflow: hidden;
+}
+/*start**********************************************alert*/
+.alert {
+  padding: 20px;
+  background-color: #f44336;
+  color: white;
+}
+
+.closebtn {
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.closebtn:hover {
+  color: black;
+}
+/*end alert*/
+/*start badge*/
+
+h1,h2,h4,h5,h6{
+	color: white;
+}
+/*end ********************* badge*/
+
+/*brradcumb **************** start*/
+ol.breadcrumb{
+  text-decoration: none;
+}
+/*brradcumb **************** end*/
+/*button *********************start*/
+
+
+/*button **********************end/
+/*card start*/
+.card_1{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  max-width: 300px;
+  text-align: center;
+  font-family: arial;
+}
+img.img_1{
+  max-width: 20px;
+  height: 100px;
+
+}
+.title{
+  color: gray;
+  font-size: 18px;
+}
+button.b_b{
+  border: none;
+  outline: 0;
+  display: inline-block;
+  padding: 8px;
+  color: white;
+  background-color: #000;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 18px;
+
+}
+a.a_a{
+  text-decoration: none;
+  font-size: 22px;
+  color: black;
+}
+/*card start*/
+
+/*img card start*/
+.p_p{
+   font-size: 30px;
+}
+/*img card start*/
+
+/*Carousel*******/
+
+
+/*utiliti end*/
+
